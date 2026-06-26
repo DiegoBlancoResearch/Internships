@@ -8,10 +8,10 @@ This repository is organized by **year** to make it easy to track my academic an
 
 ```
 Internships/
-├── 2026/              # Current and recent internships
-├── 2027/              # Active projects
-├── 2028/              # Upcoming opportunities
-└── 2029/              # Future internships
+├── internships-of-2026/        # Current and recent internships
+├── internships-of-2027/        # Active projects
+├── internships-of-2028/        # Upcoming opportunities
+└── internships-of-2029/        # Future internships
 ```
 
 ## 📍 Projects by Year
