@@ -1,4 +1,4 @@
-# 🔬 Research Internships Portfolio
+I'm# 🔬 Research Internships Portfolio
 
 A comprehensive archive of my research internship projects spanning biotech, robotics, and computational biology. Each project contains code, documentation, and research outputs from my professional development journey.
 
@@ -59,8 +59,7 @@ Internships/
 ## 📬 Contact & Links
 
 - **GitHub**: [@DiegoBlancoResearch](https://github.com/DiegoBlancoResearch)
-- **Email**: [Add your email]
-- **LinkedIn**: [Add your LinkedIn]
+- **Email**: [diegoblancob2011@gmail.com]
 
 ---
 
